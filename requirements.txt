@@ -1,0 +1,15 @@
+# Requirements for Credit Card Fraud Detection
+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- TensorFlow
+- Keras
+
+# Installation
+
+```bash
+pip install -r requirements.txt
+```
