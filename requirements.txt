@@ -1,15 +1,21 @@
-# Requirements for Credit Card Fraud Detection
+# Credit Card Fraud Detection Dependencies
 
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-- TensorFlow
-- Keras
+# Data manipulation
+pandas>=1.3.0
+numpy>=1.21.0
 
-# Installation
+# Machine Learning
+scikit-learn>=1.0.0
+imbalanced-learn>=0.9.0
+scipy>=1.7.0
 
-```bash
-pip install -r requirements.txt
-```
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Kaggle API (for dataset download)
+kaggle>=1.5.12
